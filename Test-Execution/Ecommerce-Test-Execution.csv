@@ -29,3 +29,18 @@ TC-027,Sauce Labs Backpack was successfully removed from the shopping cart,Pass
 TC-028,Cart badge correctly displayed 1 after adding one product,Pass
 TC-029,Continue Shopping successfully returned the user to the Products page,Pass
 TC-030,Checkout information page was successfully displayed after clicking Checkout,Pass
+TC-031,Checkout information page was displayed correctly with the required fields and buttons,Pass
+TC-032,User successfully proceeded to the order overview page after entering valid customer information,Pass
+TC-033,Error message First Name is required was displayed and checkout did not proceed,Pass
+TC-034,Error message Last Name is required was displayed and checkout did not proceed,Pass
+TC-035,Error message Postal Code is required was displayed and checkout did not proceed,Pass
+TC-036,Error message First Name is required was displayed and checkout did not proceed when all fields were blank,Pass
+TC-037,User was successfully returned to the shopping cart after clicking Cancel,Pass
+TC-038,Order overview page was successfully displayed after entering valid checkout information,Pass
+TC-039,Both selected products were displayed correctly in the order summary,Pass
+TC-040,Both product prices in the order summary matched the prices displayed on the Products page,Pass
+TC-041,Item total of $39.98 plus tax of $3.20 correctly calculated the total as $43.18,Pass
+TC-042,Order was successfully placed after reviewing the order and clicking Finish,Pass
+TC-043,Successful order confirmation page was displayed after placing the order,Pass
+TC-044,Order completion message Thank you for your order was displayed correctly,Pass
+TC-045,User was successfully returned to the Products page after clicking Back Home,Pass

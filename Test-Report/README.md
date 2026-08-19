@@ -148,3 +148,25 @@ The following types of test data were used during execution:
 - Multiple products
 - Product prices
 - Order totals and tax values
+## 7. Overall Conclusion
+
+The SauceDemo e-commerce application was successfully tested using manual system-level functional testing.
+
+A total of **45 test cases** covering Login, Products, Product Sorting, Shopping Cart, Checkout, Order Review, and Order Confirmation were executed.
+
+### Final Results
+
+- **45 test cases executed**
+- **45 test cases passed**
+- **0 test cases failed**
+- **0 test cases blocked**
+- **100% pass rate**
+- **0 confirmed defects identified within the defined test scope**
+
+The tested functionality behaved as expected for all executed scenarios. Both positive and negative scenarios were covered, including validation of mandatory fields, product sorting, shopping cart operations, checkout, order calculations, order placement, and order confirmation.
+
+### QA Recommendation
+
+Based on the completed test execution, the application is considered **functionally acceptable within the tested scope**.
+
+Further testing such as performance, security, API, database, and cross-browser testing would be recommended before a full production release.

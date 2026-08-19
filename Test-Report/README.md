@@ -111,3 +111,16 @@ All planned test cases were executed against the SauceDemo e-commerce applicatio
 ### Execution Conclusion
 
 The planned 45 test cases were successfully executed. All 45 test cases passed and no test cases were blocked or left unexecuted. The overall execution achieved a 100% pass rate for the defined test scope.
+## 5. Defect Summary
+
+No confirmed defects were identified during the execution of the 45 planned test cases.
+
+| Defect Status | Count |
+|---|---:|
+| Confirmed Defects | 0 |
+| Open Defects | 0 |
+| Closed Defects | 0 |
+
+### Defect Handling
+
+The Bug-Reports folder has been retained for documenting any confirmed defects identified during future testing cycles. No defects were added for this execution because all planned test cases passed.

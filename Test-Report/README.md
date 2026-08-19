@@ -124,3 +124,27 @@ No confirmed defects were identified during the execution of the 45 planned test
 ### Defect Handling
 
 The Bug-Reports folder has been retained for documenting any confirmed defects identified during future testing cycles. No defects were added for this execution because all planned test cases passed.
+## 6. Test Environment
+
+| Environment Item | Details |
+|---|---|
+| Application | SauceDemo E-commerce Application |
+| Application URL | https://www.saucedemo.com/ |
+| Testing Type | Manual Testing |
+| Testing Level | System Testing |
+| Interface | Web Browser |
+| Test Data | Valid and invalid login and checkout data |
+| Test Execution | 45 manual test cases |
+| Test Result | 45 Passed / 0 Failed |
+
+### Test Data Used
+
+The following types of test data were used during execution:
+
+- Valid login credentials
+- Invalid login credentials
+- Blank mandatory fields
+- Valid customer information
+- Multiple products
+- Product prices
+- Order totals and tax values

@@ -19,3 +19,13 @@ TC-017,Sauce Labs Backpack was added to the cart and cart count showed 1,Pass
 TC-018,Both selected products were displayed in the cart,Pass
 TC-019,Products were sorted from A to Z correctly,Pass
 TC-020,Products were sorted from Z to A correctly,Pass
+TC-021,Prices were sorted from low to high correctly,Pass
+TC-022,Prices were sorted from high to low correctly,Pass
+TC-023,Price low to high was selected and products were sorted correctly,Pass
+TC-024,Sauce Labs Backpack was displayed in the shopping cart with quantity 1 and price $29.99,Pass
+TC-025,Both selected products were displayed in the shopping cart,Pass
+TC-026,Sauce Labs Backpack name and price $29.99 matched the selected product,Pass
+TC-027,Sauce Labs Backpack was successfully removed from the shopping cart,Pass
+TC-028,Cart badge correctly displayed 1 after adding one product,Pass
+TC-029,Continue Shopping successfully returned the user to the Products page,Pass
+TC-030,Checkout information page was successfully displayed after clicking Checkout,Pass

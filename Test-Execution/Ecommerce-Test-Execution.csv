@@ -1,1 +1,11 @@
 Test Case ID,Actual Result,Status
+TC-001,User successfully logged in and Products page was displayed,Pass
+TC-002,Error message was displayed for invalid username and login was prevented,Pass
+TC-003,Error message was displayed for invalid password and login was prevented,Pass
+TC-004,Username required validation message was displayed,Pass
+TC-005,Password required validation message was displayed,Pass
+TC-006,Username required validation message was displayed when both fields were blank,Pass
+TC-007,Password input was masked correctly,Pass
+TC-008,Products page was displayed successfully after valid login,Pass
+TC-009,Logout was successful and user was returned to the login page,Pass
+TC-010,Products page was displayed after successful login,Pass

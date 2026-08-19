@@ -9,3 +9,13 @@ TC-007,Password input was masked correctly,Pass
 TC-008,Products page was displayed successfully after valid login,Pass
 TC-009,Logout was successful and user was returned to the login page,Pass
 TC-010,Products page was displayed after successful login,Pass
+TC-011,Products were displayed successfully,Pass
+TC-012,Sauce Labs Backpack was displayed correctly,Pass
+TC-013,Sauce Labs Backpack description was displayed correctly,Pass
+TC-014,Sauce Labs Backpack price was displayed as $29.99,Pass
+TC-015,Sauce Labs Backpack image was displayed correctly,Pass
+TC-016,Sauce Labs Backpack product details page opened successfully,Pass
+TC-017,Sauce Labs Backpack was added to the cart and cart count showed 1,Pass
+TC-018,Both selected products were displayed in the cart,Pass
+TC-019,Products were sorted from A to Z correctly,Pass
+TC-020,Products were sorted from Z to A correctly,Pass
